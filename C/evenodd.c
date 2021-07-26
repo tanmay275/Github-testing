@@ -1,16 +1,18 @@
-#include <stdio.h>
-
+#include<stdio.h>
 int main()
 {
     int n;
-    printf("enetr the number=");
+    printf("enter the number:\n");
     scanf("%d", &n);
     if (n%2==0)
     {
         printf("even");
-    }
-    else
+    }else
+    {
         printf("odd");
-
-    return 0;
+    }
+    
+    
+    
+    
 }
