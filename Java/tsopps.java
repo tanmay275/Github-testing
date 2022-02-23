@@ -25,7 +25,7 @@ public class tsopps {
         // tanmay.details();
         // System.out.println(souvik.slary);
         // System.out.println(tanmay.slary);
-        
+
         ;
         System.out.println(souvik.getslary());
         System.out.println(tanmay.getslary());

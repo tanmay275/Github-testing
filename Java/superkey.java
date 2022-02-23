@@ -26,7 +26,7 @@ public class superkey {
 
     public static void main(String[] args) {
         derive sc = new derive(10, 20);
-        derive xc=new derive();
+        derive xc = new derive();
 
     }
 

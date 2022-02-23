@@ -1,8 +1,8 @@
 public class series {
-    static void siri(int x) {
-        if (x > 0) {
-            siri(x - 1);
-            System.out.println(x);
+    static void siri(int n) {
+        if (n > 0) {
+            siri(n - 1);
+            System.out.println(n);
 
         }
 

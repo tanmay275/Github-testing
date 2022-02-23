@@ -11,7 +11,7 @@ public class array_hp {
         // for (int i = 0; i < a.length; i++) {
         // System.out.println(a[i]);
         // }
-        // /traversing the array with for-each loop 
+        // /traversing the array with for-each loop
         for (int i : a) {
             System.out.println(i);
 
