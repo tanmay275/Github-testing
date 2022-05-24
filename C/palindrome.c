@@ -3,9 +3,9 @@
 #include <conio.h>
 void main()
 {
-    int n,r, temp,sum = 0;
+    int n, r, temp, sum = 0;
     printf("enter the number=");
-    scanf("%d",&n);
+    scanf("%d", &n);
     temp = n;
     while (n > 0)
     {
