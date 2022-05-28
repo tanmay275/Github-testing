@@ -19,12 +19,6 @@ class Child2 extends Parent2{
         System.out.println("Good afternoon");
     }
 }
-
-class Child3 extends Parent2{
-    public void th(){
-        System.out.println("I am good");
-    }
-}
 public class abs {
     public static void main(String[] args) {
         //Parent2 p = new Parent2(); -- error
